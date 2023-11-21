@@ -22,5 +22,5 @@ jobs:
           local_path: './*'
           PORT: 22
           METHOD: sftp
-          remote_path: '/site/IS436/lab5/lab5_berylmalomo.html
+          remote_path: '/site/IS436/lab5/lab5_berylmalomo.html'
           sftp_only: true
